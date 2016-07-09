@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ZhiHuImitate</string>
+    <string name="item_01">菜单一</string>
+    <string name="item_02">菜单二</string>
+    <string name="title_activity_main">今日热闻</string>
+    <string name="action_mode">夜间模式</string>
+    <string name="action_settings">用户设置</string>
+    <string name="header_image">标题图片</string>
+</resources>

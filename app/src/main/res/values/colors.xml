@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#C5CAE9</color>
+    <color name="accent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_0176da">#0176da</color>
+    <color name="white">#ffffff</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+
+    <color name="dark_primary">#222222</color>
+    <color name="dark_primary_dark">@android:color/black</color>
+    <color name="dark_primary_text">#E9E7E9</color>
+    <color name="dark_secondary_text">#727272</color>
+
+    <color name="light_news_item">#FFF9F9F9</color>
+    <color name="light_news_item_pressed">#E0E0E0</color>
+    <color name="dark_news_item">#414041</color>
+    <color name="dark_news_item_pressed">#393739</color>
+
+    <color name="light_menu_list_bg">#FFFFFFFF</color>
+    <color name="dark_menu_list_bg">#343434</color>
+    <color name="light_menu_list_text">#FF000000</color>
+    <color name="dark_menu_list_text">#AAAAAA</color>
+    <color name="light_menu_main_bg">#FFF0F0F0</color>
+    <color name="dark_menu_main_bg">#2c2c2c</color>
+
+    <color name="light_menu_header_text">@android:color/white</color>
+    <color name="dark_menu_header_text">#6b6b6b</color>
+
+</resources>
